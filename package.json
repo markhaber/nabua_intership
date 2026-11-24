@@ -1,0 +1,22 @@
+{
+  "name": "nabua-internship",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "create-admin": "node scripts/create-admin.js",
+    "import-json": "node scripts/import-json.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "express-mysql-session": "^3.0.3",
+    "mysql2": "^3.24.6"
+  },
+  "overrides": {
+    "mysql2": "$mysql2"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "name": "Administrator",
+      "role": "admin",
+      "hash": "$2a$10$UoIg7F1oLP9032rOqXhNe.kpZtUABekeP.4WzLOVqYflPe/adf1WG"
+    },
+    {
+      "username": "student",
+      "name": "mark gerald haber",
+      "role": "student",
+      "hash": "$2a$10$Mr/bw7NWysDHWuqFHgkIhO4sDui0UVbSASxbtNE65LlJAfyew2FEq"
+    },
+    {
+      "username": "intern",
+      "name": "mark gerald haber",
+      "role": "student",
+      "hash": "$2a$10$ENf1/FvrVaxsIdcRK/J2seVhoAHo6/hJt4q75wejjAEQ0wkwt0RGS"
+    },
+    {
+      "username": "internship",
+      "name": "Zyrus Vien Cerilo",
+      "role": "student",
+      "hash": "$2a$10$g8BUNDudfqFmP1pH1Cqm9O7RBwJK1RD4kOCj1P0pwwaqI8qIO09rC"
+    }
+  ],
+  "applications": [
+    {
+      "name": "mark gerald haber",
+      "email": "habermarkgerald1@gmail.com",
+      "phone": "09354687239",
+      "school": "CSPC",
+      "course": "BSIT",
+      "year": "4th Year",
+      "office": "mdrrmo",
+      "office2": "mdrrmo",
+      "hours": 240,
+      "start": "2026-12-07",
+      "msg": "I have skills about rescue for people injured.",
+      "id": "NB-MWTWHH4F",
+      "user": "intern",
+      "status": "Approved",
+      "note": "",
+      "at": 1795476727023
+    },
+    {
+      "name": "Zyrus Vien Cerilo",
+      "email": "zy@gmail.com",
+      "phone": "09762245788",
+      "school": "CSPC",
+      "course": "BSIT",
+      "year": "4th Year",
+      "office": "mcr",
+      "office2": "mcr",
+      "hours": 240,
+      "start": "2026-11-30",
+      "msg": "I want to intern this because I want to learn more about what is doing in registrar office",
+      "id": "NB-MWTYJW3C",
+      "user": "internship",
+      "status": "Approved",
+      "note": "",
+      "at": 1795480198968
+    }
+  ]
+}
